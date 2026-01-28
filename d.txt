@@ -2,11 +2,7 @@ beadedmesh
 bench
 choker
 cworkcon
-c_c_c
-d.txt
 fairy
-ff.txt
-fs.txt
 fur
 glass
 gown
